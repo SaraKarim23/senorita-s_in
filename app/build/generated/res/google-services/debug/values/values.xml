@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">592495048020-e9hnmkblclk1hvf6utc5mmjpp2fqt0ps.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://senorita-s-in.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">592495048020</string>
+    <string name="google_api_key" translatable="false">AIzaSyBLe-IK-OKi0GwwCepzznLmqyZq5Pl7MvU</string>
+    <string name="google_app_id" translatable="false">1:592495048020:android:e3e645d8f59f511d3304c1</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBLe-IK-OKi0GwwCepzznLmqyZq5Pl7MvU</string>
+    <string name="google_storage_bucket" translatable="false">senorita-s-in.appspot.com</string>
+    <string name="project_id" translatable="false">senorita-s-in</string>
+</resources>

@@ -1,0 +1,4 @@
+#Sun Sep 20 12:32:38 BDT 2020
+base.0=E\:\\Senorita's In-20200918T175703Z-001\\Senorita_s In\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

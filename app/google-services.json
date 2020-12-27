@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "592495048020",
+    "firebase_url": "https://senorita-s-in.firebaseio.com",
+    "project_id": "senorita-s-in",
+    "storage_bucket": "senorita-s-in.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:592495048020:android:e3e645d8f59f511d3304c1",
+        "android_client_info": {
+          "package_name": "com.example.senoritasin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "592495048020-e9hnmkblclk1hvf6utc5mmjpp2fqt0ps.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLe-IK-OKi0GwwCepzznLmqyZq5Pl7MvU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "592495048020-e9hnmkblclk1hvf6utc5mmjpp2fqt0ps.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,111 @@
+<resources>
+    <string name="app_name">Senorita\'s In</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+
+    <string name="beauty_tips">
+        Everyone wants healthy, natural looking skin. Here are some tips that may lead you in that direction.\n
+
+1—Stay Hydrated Inside Out\n
+Our skin reflects what goes on inside of our body, if we don\'t get enough water, our skin looks dehydrated. Dehydration leaves our skin less appealing, dried, and dull. Our body requires at least 8 cups of water daily to remove the toxins and help achieve the glowing skin we want.
+
+Tip: If you forget to drink water here is a tip to make your life easy. Break your day into 8 parts and set an alarm to remember at what time and how many glasses of water you are drinking in a day.\n\n
+
+2—Wash Your Face Before Going to Bed\n
+After a long tiring day many women go to bed without taking their makeup off. Cleansing your skin at night is more important than cleansing in morning because the day exposes our skin to sun, dirt, debris, makeup, and pollution.
+
+These can get into pores and cause blemishes so washing at night can help your skin breath easily and stay blemish-free.\n\n
+
+3—Toning and \n
+A good toner helps to balance the pH level in your skin, which should be slightly acidic. They also help to remove any excess makeup or dirt on your face and detoxify your skin.
+
+Before moisturizing your skin use an antioxidant serum loaded with vitamin C and D that avoid dehydration and aging. Applying serum right before applying moisturizer increases the moisturizing effect.\n\n
+
+4—Protection\n
+Without protection the above mentioned tips are useless. Use an SPF like Sun Love on a daily basis—even on cloudy days—because your moisturizer and makeup is not enough to protect your skin. It just takes a small amount of sunscreen on your face (including your eyes and lips).
+
+5—Exfoliation\n
+Your skin cells have a natural life of 28 days. To bring up the natural new glowing skin, we suggest exfoliating once or twice a week with something like the the Kaolin Microexfoliant. Other than this, exfoliation results in increased stimulation, minimized pores, and fresh looking skin. The best body washes are ones that work well with your skin and can exfoliate it too!
+    </string>
+
+    <string name="mental_health">
+        3 WOMEN’S MENTAL HEALTH FACTS EVERYONE SHOULD KNOW\n\n
+Women’s Mental Health is a complex subject. From our rich array of life experiences to the role that hormones play, many women struggle to understand our thoughts and emotions and are seeking ways to experience greater emotional and mental health. (Read Women’s Emotions: Introduction).
+Though women’s mental health is complex, there are some basic facts and principles that can help us navigate our moods, emotions, and thoughts. To get us started, I’ve compiled a list of 5 facts every woman (and the men who love them) should know:\n\n
+
+1) Female brains are born ready to connect with others. Research shows differences between the male and female brain from a very young age. Females engage in more eye contact as infants and prefer gazing at faces, whereas males prefer looking around. As we mature, females tend to think more relationally than males, looking at things through the eyes of how it will affect everyone else, and emphasizing relationships.\n It’s no wonder, then, that we women are so talented at nurturing, loving, and helping others–we were born this way. This can, of course, be a blessing, leading to richer relationships and more life meaning, or a curse if we fail to also nurture and take care of ourselves.\n\n
+
+2) Hormones directly impact the brain, which directly alters women’s mental health. When hormones, like estrogen, shift, so do the neurotransmitters of the brain that make us feel “normal” and well. Each shift in hormones directly shifts a woman’s brain chemistry, which has a direct impact on her emotions, moods, and overall mental health. Read Women’s Emotions: Part 1: The 3 Components of Emotional Health, or watch this video to learn more.\n\n
+
+3) Our life experiences alter our brain chemistry too. What happens to us in life has a physiological affect on our brains. Over time, trauma, loss, and significant life stressors can alter the brain so much that we think and feel differently too. In fact, Women’s Mental Health is really a function of life experiences + hormones + the brain. Read Women’s Emotions: Part 1: The 3 Components of Emotional Health to learn more.</string>
+
+    <string-array name="female_doctors_list">
+        <item>Dr. Sara Binte Karim</item>
+        <item>Dr. Ethika Mir</item>
+        <item>Doctor3</item>
+        <item>Doctor4</item>
+        <item>Doctor5</item>
+        <item>Doctor6</item>
+        <item>Doctor7</item>
+        <item>Doctor8</item>
+        <item>Doctor9</item>
+    </string-array>
+    <string-array name="details">
+        <item>MBBS,Apollo Hospital\n Sunday–Thursday 10.00-4.00pm</item>
+        <item>Phycatris,United Hospital\n Sunday–Thursday 10.00-4.00pm</item>
+        <item>Gynocologist, Apollo hospital</item>
+        <item>MBBS,Dhaka Medical College</item>
+        <item>Phycatris,Life Coach Trainning Center</item>
+        <item>Gynocologist, Apollo hospital</item>
+        <item>MBBS,Dhaka Medical College</item>
+        <item>Phycatris,Life Coach Trainning Center</item>
+        <item>Gynocologist, Apollo hospital</item>
+
+    </string-array>
+    <string-array name="appointment_number">
+        <item>018436588**</item>
+        <item>asfFDDSFDSF354435**</item>
+        <item>018436588**</item>
+        <item>ERERTRETDSFS**</item>
+        <item>018436588**</item>
+        <item>018436588**</item>
+        <item>018436588**</item>
+        <item>018436588**</item>
+        <item>018436588**</item>
+
+    </string-array>
+
+    <string name="parenting">
+        1. Play with Your Child.\n
+Play is your child’s language. I mean get on the ground and play with them. Take delight in playing with your child. You can play at the park or play a board game inside. When parents play with their children, it helps their self-esteem.\n
+
+2. Allow Your Children to Do Things for Themselves.\n
+This will give them a sense of independence. I know this is hard sometimes, but it helps teach them that making mistakes is alright.
+
+Think back to the first time you successfully made cookies or candy. Maybe, it took a few times to get it right. But, in the end, you felt good.
+
+This is the feeling you want your child to have. It will help them as they get older to try new things.
+
+3. Set Limits for Your Child.\n
+You don’t have to be the parent that says “yes” to everything. Most children don’t like to go to bed or to do their chores. This doesn’t mean you let them out of it. It’s alright if they get upset with you.
+
+You’re the parent not their friend at this time. You want to teach your child responsibility. Make sure they know what is expected and that you set a schedule. This will help your child feel safe and secure.
+
+There’s No Such Thing As Parenting The “Right” Way\n
+
+4. Read to Your Child.\n
+You can read to them at bedtime. Make it part of your nightly routine. They will look forward to it and you will, too. You can also read to them when they get home from school, or any other time during the day. Just, make time for it.
+
+This will help them learn and it creates a bond between you and your child. Let them help with picking the stories.\n
+
+5. Make Time for Yourself.\n
+As a parent, it’s easy to put yourself last. You need to spend time doing things that you find fun and fulfilling.
+
+Even when you find your time stretched thin, add a little time for yourself, even if it’s only ten minutes. Take a bubble bath, go for a walk or watch a comedy. This will help make you happy. And what children need most are happy parents.
+
+As a parent, I’m sure you’re doing the best you can. Nobody expects you to be perfect. We all make mistakes. I always tell my clients, “What makes a good parent is a parent that makes mistakes.” This will let your child know it’s alright to make mistakes.
+
+Remember, to go easy on yourself. When you had your child it didn’t come with an instruction manual. Talk to your friends and family about your children. Don’t be scared to let them know what mistakes you’ve made, and ask for help. A lot of the time, they are going through the same thing.
+    </string>
+</resources>
